@@ -8,7 +8,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - 📫 How to reach me **puneeteklavya@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I like cooking and traveling very often.**
 
 - My website -https://puneetchaubey.netlify.app/
 
