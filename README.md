@@ -10,8 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I like cooking and traveling very often.**
 
-- My website -https://puneetchaubey.netlify.app/
-
+- 💬 Have a look at my [portfolio](https://puneetchaubey-portfolio.netlify.app/).
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
