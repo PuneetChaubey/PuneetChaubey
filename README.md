@@ -11,45 +11,52 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 - ⚡ Fun fact **I like cooking and traveling very often.**
 
 - 💬 Have a look at my [portfolio](https://puneetchaubey-portfolio.netlify.app/).
-## 🚀 Languages and Tools:
+//## 🚀 Languages and Tools:
+<h2 align="center">:computer: Tech Stacks </h2>
 
-<p align="left"> 
-   
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Boot Strap](https://img.shields.io/badge/BootStrap-%234ea94b.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+ 
+  
+</div> 
+
+<br/>
+<h2 align="center">Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center >
+<!--     <a> -->
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=PuneetChaubey&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+<!--     </a> -->
+<!--     <a> -->
+      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact&theme=nightowl&text_color=ffffff" />
+<!--     </a> -->
+  </div>
 </p>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href= https://github.com/PuneetChaubey> <img width ='32px' src 
-  ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-   <a href= https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-   <a href= https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-  <a href= https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-  <a href= https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href=https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href=https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href=https://github.com/PuneetChaubey> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+
+<br/> 
 
 
-<br/>
+<br>
+<br>
+<br>
+<br>
 
-
-## 📊 My Github Stats
-
-  [![Puneet GitHub stats](https://github-readme-stats.vercel.app/api?username=PuneetChaubey&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-<br/>
 
 
 [![Puneet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PuneetChaubey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<br/>
-<br/>
+
 
 
 
