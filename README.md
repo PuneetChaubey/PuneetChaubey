@@ -53,7 +53,7 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 
 
 
-[![Puneet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PuneetChaubey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Puneet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PuneetChaubey&theme=react-dark)](https://github.com/PuneetChaubey/github-readme-activity-graph)
 
 
 
