@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 - ⚡ Fun fact **I like cooking and traveling very often.**
 
 - 💬 Have a look at my [portfolio](https://puneetchaubey-portfolio.netlify.app/).
-//## 🚀 Languages and Tools:
+
 <h2 align="center">:computer: Tech Stacks </h2>
 
 <div align="center">
