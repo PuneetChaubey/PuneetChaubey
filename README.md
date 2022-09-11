@@ -32,15 +32,22 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 <br/>
 <h2 align="center">Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center >
-<!--     <a> -->
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=PuneetChaubey&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
-<!--     </a> -->
-<!--     <a> -->
-      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact&exclude_repo=Kohals-Clone&theme=nightowl&text_color=ffffff" />
-<!--     </a> -->
-  </div>
+ 
+<p display="flex" align="center">
+  
+  <a href="https://github.com/PuneetChaubey?tab=repositories">
+    <img width="400" height="auto"  alt="Jitesh's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=PuneetChaubey&show_icons=true&theme=algolia&count_private=true" />
+  </a> 
+  
+  
+<img alt="Puneet Chaubey's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+
+
+
+ 
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetChaubey&hide=smalltalk&theme=algolia&layout=compact" alt="PuneetChaubey" />
 </p>
 
 <br/> 
