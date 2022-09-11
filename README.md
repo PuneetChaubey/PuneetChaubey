@@ -38,7 +38,7 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=PuneetChaubey&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
 <!--     </a> -->
 <!--     <a> -->
-      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact&theme=nightowl&text_color=ffffff" />
+      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact&exclude_repo=Kohals-Clone&theme=nightowl&text_color=ffffff" />
 <!--     </a> -->
   </div>
 </p>
