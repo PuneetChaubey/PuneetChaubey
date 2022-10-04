@@ -36,7 +36,7 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 <p display="flex" align="center">
   
   <a href="https://github.com/PuneetChaubey?tab=repositories">
-    <img width="400" height="auto"  alt="Jitesh's github stats" 
+    <img width="400" height="auto"  alt="Puneet's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=PuneetChaubey&show_icons=true&theme=algolia&count_private=true" />
   </a> 
   
